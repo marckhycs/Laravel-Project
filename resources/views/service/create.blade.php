@@ -4,7 +4,7 @@
 
 @section('content')
 <div class='container'>
-    <h1>Welcome to Services</h1>
+    <h1>Welcome to Services Please Fill Out The Form</h1>
     <form action="/service" method="POST">
         <div class="form-group">
             <input class="form-control" type="text" name="name" autocomplete="off">
